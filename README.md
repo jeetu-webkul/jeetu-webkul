@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jeetu-webkul
-- 👀 I’m interested in Travel, Trecking, Camping
+- 👋 Hi, I’m Jitendra Sahu  
+- :fire: Software Engineer at Webkul
+- 👀 I’m currently Workign on Laravel + Vuejs (Bagiso) 
 - 🌱 I’m currently learning Vue, React, Nodejs 
-- 💞️ I’m looking to collaborate on ...
--
-
-<!---
-jeetu-webkul/jeetu-webkul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on Nodejs + Mongo DB Projects
